@@ -5,6 +5,6 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 export default defineConfig(({ command }) => {
   return {
     plugins: [svelte()],
-    base: '/BWDC_FINAL_PROJECT_V2/',
+    base: '/bwdc_final/',
   }
 })
