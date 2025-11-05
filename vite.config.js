@@ -5,6 +5,6 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 export default defineConfig(({ command }) => {
   return {
     plugins: [svelte()],
-    base: command === 'build' ? '/BWDC_FINAL_PROJECT/' : '/', // ✅ only use the repo path when building for deploy
+    base: '/BWDC_FINAL_PROJECT_V2/',
   }
 })

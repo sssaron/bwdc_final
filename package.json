@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sssaron.github.io/BWDC_FINAL_PROJECT",
+  "homepage": "https://sssaron.github.io/bwdc_final",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
